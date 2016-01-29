@@ -32,10 +32,10 @@ a:hover {
 #infowindow {
   font-style: 'ヒラギノ角ゴ Pro W3', Hiragino Kaku Gothic Pro;
 }
-#title{
+#title {
   font-size: 12px;
 }
-#cast{
+#cast {
   font-size: 10px;
 }
 
@@ -90,4 +90,13 @@ a:hover {
     height: 50%;
     align: center;
   }
+}
+
+/*------------------------トップへ戻る*/
+
+#back {
+  text-align: right;
+  margin: 0 auto;
+  hight: 100%;
+  width: 90%;
 }
