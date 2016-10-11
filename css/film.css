@@ -1,0 +1,92 @@
+html {
+    height: 100%
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+
+#table-fixed {
+    height: 100px
+}
+
+#textUrl {
+    font-size: 140%;
+}
+
+#map_canvas {
+    max-width: none;
+    height: 100%;
+}
+
+#mainContent {
+    margin-top: -40px;
+}
+
+#currentLocation {
+    margin-top: -24px;
+    margin-right: 10px;
+}
+
+
+/*GeoLocateMe<https://github.com/stedman/GeoLocateMe/blob/master/MIT-LICENSE>*/
+
+@-moz-keyframes pulsate {
+    from {
+        -moz-transform: scale(0.25);
+        opacity: 1.0;
+    }
+    95% {
+        -moz-transform: scale(1.3);
+        opacity: 0;
+    }
+    to {
+        -moz-transform: scale(0.3);
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes pulsate {
+    from {
+        -webkit-transform: scale(0.25);
+        opacity: 1.0;
+    }
+    95% {
+        -webkit-transform: scale(1.3);
+        opacity: 0;
+    }
+    to {
+        -webkit-transform: scale(0.3);
+        opacity: 0;
+    }
+}
+
+#map_canvas div[title="現在地"] {
+    -moz-animation: pulsate 2.0s ease-in-out infinite;
+    -webkit-animation: pulsate 2.0s ease-in-out infinite;
+    border: 1pt solid #fff;
+    /* make a circle */
+    -moz-border-radius: 151px;
+    -webkit-border-radius: 151px;
+    border-radius: 151px;
+    /* multiply the shadows, inside and outside the circle */
+    -moz-box-shadow: inset 0 0 5px #06f, inset 0 0 5px #06f, inset 0 0 5px #06f, 0 0 5px #06f, 0 0 5px #06f, 0 0 5px #06f;
+    -webkit-box-shadow: inset 0 0 5px #06f, inset 0 0 5px #06f, inset 0 0 5px #06f, 0 0 5px #06f, 0 0 5px #06f, 0 0 5px #06f;
+    box-shadow: inset 0 0 5px #06f, inset 0 0 5px #06f, inset 0 0 5px #06f, 0 0 5px #06f, 0 0 5px #06f, 0 0 5px #06f;
+    /* set the ring's new dimension and re-center it */
+    height: 120px!important;
+    margin: -50px 0 0 -50px;
+    width: 120px!important;
+}
+
+#map_canvas div[title="現在地"] img {
+    display: none;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (device-width: 768px) {
+    #map_canvas div[title="現在地"] {
+        margin: -42px 0 0 -42px;
+    }
+}

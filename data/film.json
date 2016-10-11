@@ -1,0 +1,3053 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成17年度",
+            "first": "な",
+            "title": "「涙そうそう　広島8月6日」　ＴＢＳテレビ",
+            "cast": "松たか子・加藤あい・長澤まさみ",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成17年度",
+            "title": "「涙そうそう　広島8月6日」　ＴＢＳテレビ",
+            "cast": "松たか子・加藤あい・長澤まさみ",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成17年度",
+            "title": "「電車男」　フジテレビ",
+            "cast": "伊藤美咲・伊藤淳史・須藤理彩",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成17年度",
+            "title": "「火垂るの墓」　日本テレビ",
+            "cast": "松島菜々子・伊原剛志・井上真央",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成17年度",
+            "title": "映画「パビリオン」",
+            "cast": "オダギリジョー・香椎由宇・高田順次",
+            "location": "大井川鐵道　車内"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成17年度",
+            "title": "「愛と死を見つめて」　テレビ朝日",
+            "cast": "草薙剛・広末涼子・小雪・大杉蓮",
+            "location": "大井川鐵道　新金谷駅等"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成17年度",
+            "title": "「西村京太郎サスペンス土曜ワイド劇場『鉄道捜査官⑦』」　テレビ朝日",
+            "cast": "沢口靖子",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「俺は、君のためにこそ死ににいく」",
+            "cast": "徳重聡・窪塚洋介・筒井道隆・岸恵子",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「純情きらり」　NHK",
+            "cast": "宮崎あおい・寺島しのぶ・井川遥・室井滋・福士誠治",
+            "location": "大井川鐵道　千頭駅　"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「純情きらり」　NHK",
+            "cast": "宮崎あおい・寺島しのぶ・井川遥・室井滋・福士誠治",
+            "location": "新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179677, 34.83193]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「純情きらり」　NHK",
+            "cast": "宮崎あおい・寺島しのぶ・井川遥・室井滋・福士誠治",
+            "location": "みのる座"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「アンビリバボー」　フジテレビ",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「アンビリバボー」　フジテレビ",
+            "cast": "－",
+            "location": "家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「アンビリバボー」　フジテレビ",
+            "cast": "－",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.11057, 35.074681]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「アンビリバボー」　フジテレビ",
+            "cast": "－",
+            "location": "駿河徳山"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.115652, 35.089485]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「アンビリバボー」　フジテレビ",
+            "cast": "－",
+            "location": "青部セミナーセンター"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「くるくるドカン」　フジテレビ",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「黄色い涙」",
+            "cast": "嵐（二宮和也・相葉雅紀・大野智・櫻井翔・松本潤）・香椎由宇",
+            "location": "栃山川堤防　"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.181554, 34.840649]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「黄色い涙」",
+            "cast": "嵐（二宮和也・相葉雅紀・大野智・櫻井翔・松本潤）・香椎由宇",
+            "location": "スーパービック元島田"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「24時間テレビ～婚約者からの遺言～」　日本テレビ",
+            "cast": "安倍なつみ",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「ドラマコンプレックス　澤田美喜物語～母たることは地獄のごとく～」　日本テレビ",
+            "cast": "松坂慶子・江守徹",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.09005, 34.901922]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "CM「東芝テック　TVコマーシャル」",
+            "cast": "－",
+            "location": "大井川河川敷（島田市福用）"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「佐賀のがばいばあちゃん」　フジテレビ",
+            "cast": "泉ピン子・石田ゆり子・原沙知絵",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「いただきマッスル！」　中京テレビ",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.123737, 34.815541]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "TV「いただきマッスル！」　中京テレビ",
+            "cast": "－",
+            "location": "旧東海道石畳"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175752, 34.832522]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「遥かなる約束」　フジテレビ",
+            "cast": "阿部寛・黒木瞳",
+            "location": "島田市地域交流センター「歩歩路」"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「日本の青空」",
+            "cast": "高橋和也・藤谷美紀",
+            "location": "大井川鐵道　千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.154388, 34.831342]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「やじきた道中てれすこ」",
+            "cast": "中村勘三郎・柄本明・小泉今日子",
+            "location": "大井川川越遺跡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.17852, 34.835613]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「魍魎の匣」",
+            "cast": "堤真一・阿部寛・椎名桔平・宮迫博之・田中麗奈・黒木瞳",
+            "location": "島田市大津通周辺"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173655, 34.827844]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「魍魎の匣」",
+            "cast": "堤真一・阿部寛・椎名桔平・宮迫博之・田中麗奈・黒木瞳",
+            "location": "島田市横井公会堂"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「復讐するは我にあり」　テレビ東京",
+            "cast": "柳葉敏郎・大地康雄・岸本加世子",
+            "location": "大井川河川敷"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.171678, 34.833661]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「復讐するは我にあり」　テレビ東京",
+            "cast": "柳葉敏郎・大地康雄・岸本加世子",
+            "location": "大井神社周辺"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179224, 34.831153]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「復讐するは我にあり」　テレビ東京",
+            "cast": "柳葉敏郎・大地康雄・岸本加世子",
+            "location": "萬露亭"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.120444, 34.844067]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ドラマ「復讐するは我にあり」　テレビ東京",
+            "cast": "柳葉敏郎・大地康雄・岸本加世子",
+            "location": "西の家（島田市）"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "ＴＶ「金とく　北陸スペシャル」　ＮＨＫ富山放送",
+            "cast": "－",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「母べえ」",
+            "cast": "吉永小百合・浅野忠信・志田未来・笑福亭鶴瓶",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.11057, 35.074681]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「母べえ」",
+            "cast": "吉永小百合・浅野忠信・志田未来・笑福亭鶴瓶",
+            "location": "駿河徳山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「母べえ」",
+            "cast": "吉永小百合・浅野忠信・志田未来・笑福亭鶴瓶",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "大御所400年祭事業映像作品「朝鮮通信使」",
+            "cast": "林隆三",
+            "location": "大井川鐵道　新金谷駅　"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.115652, 35.089485]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "大御所400年祭事業映像作品「朝鮮通信使」",
+            "cast": "林隆三",
+            "location": "青部駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "大御所400年祭事業映像作品「朝鮮通信使」",
+            "cast": "林隆三",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179677, 34.83193]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "大御所400年祭事業映像作品「朝鮮通信使」",
+            "cast": "林隆三",
+            "location": "みのる座"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.156688, 34.832259]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "CM「ヤギモク　TVコマーシャル」",
+            "cast": "－",
+            "location": "川越し遺跡民家"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "CM「ヤギモク　TVコマーシャル」",
+            "cast": "－",
+            "location": "大井川鐵道沿線"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.09005, 34.901922]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "CM「ヤギモク　TVコマーシャル」",
+            "cast": "－",
+            "location": "福用地区商店"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「ＡＬＷＡＹＳ　続・三丁目の夕日」",
+            "cast": "吉岡秀隆・堤真一・小雪・堀北真希",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.174927, 34.849818]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「ＡＬＷＡＹＳ　続・三丁目の夕日」",
+            "cast": "吉岡秀隆・堤真一・小雪・堀北真希",
+            "location": "中央公園"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.174428, 34.865901]
+        },
+        "properties": {
+            "year": "平成18年度",
+            "title": "映画「ＡＬＷＡＹＳ　続・三丁目の夕日」",
+            "cast": "吉岡秀隆・堤真一・小雪・堀北真希",
+            "location": "尾川地区山道（島田市内）"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.087269, 34.985996]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「少林少女」",
+            "cast": "柴咲コウ、仲村トオル、江口洋介、岡村隆史",
+            "location": "大井川鐵道　地名駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ぐるりのこと」",
+            "cast": "木村多江、リリー・フランキー",
+            "location": "大井川鐵道　千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ぐるりのこと」",
+            "cast": "木村多江、リリー・フランキー",
+            "location": "新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ぐるりのこと」",
+            "cast": "木村多江、リリー・フランキー",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.171678, 34.833661]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ぐるりのこと」",
+            "cast": "木村多江、リリー・フランキー",
+            "location": "大井神社"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179677, 34.83193]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ぐるりのこと」",
+            "cast": "木村多江、リリー・フランキー",
+            "location": "みのる座"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.122781, 35.1738]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ぐるりのこと」",
+            "cast": "木村多江、リリー・フランキー",
+            "location": "翠紅苑"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.176748, 34.832868]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ぐるりのこと」",
+            "cast": "木村多江、リリー・フランキー",
+            "location": "おび通り"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「裸の大将～放浪の虫が動き出したので～」",
+            "cast": "塚地武雅・水川あさみ・生瀬勝久・ベンガル",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175062, 34.825323]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「たみおのしあわせ」",
+            "cast": "原田芳雄・オダギリジョー・大竹しのぶ・麻生久美子",
+            "location": "島田球場"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「はだしのゲン」",
+            "cast": "中井貴一・石田ゆり子",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "CM「TOKAI」",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.115652, 35.089485]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「点と線」",
+            "cast": "ビートたけし・高橋克典・柳葉敏郎・小林稔持・竹中直人",
+            "location": "大井川鐵道　青部駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.11057, 35.074681]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「点と線」",
+            "cast": "ビートたけし・高橋克典・柳葉敏郎・小林稔持・竹中直人",
+            "location": "駿河徳山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「私は貝になりたい」",
+            "cast": "中村獅童、優香、名取裕子、飯島直子",
+            "location": "大井川鐵道　千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.144097, 34.824245]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ＴＶ「ドリーム・プレス社　～佐賀のがばいばあちゃん再現ＶＴＲ～」",
+            "cast": "島田洋七、石原良純",
+            "location": "佐藤工業敷地内の民家"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.062316, 34.941627]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ＴＶ「奇跡体験アンビリバボー」",
+            "cast": "－",
+            "location": "市井平橋（家山）"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.112848, 35.198528]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "グラビアアイドルＤＶＤ",
+            "cast": "斉藤晴南、黒沢華鈴、原真未",
+            "location": "夢の吊り橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.108207, 35.178746]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "グラビアアイドルＤＶＤ",
+            "cast": "斉藤晴南、黒沢華鈴、原真未",
+            "location": "飛龍橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.119672, 35.175439]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "グラビアアイドルＤＶＤ",
+            "cast": "斉藤晴南、黒沢華鈴、原真未",
+            "location": "飛龍の宿"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.124605, 34.816943]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "グラビアアイドルＤＶＤ",
+            "cast": "斉藤晴南、黒沢華鈴、原真未",
+            "location": "石畳茶屋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ＤＩＶＥ!!」",
+            "cast": "林遣都、池松壮亮、溝端淳平、瀬戸朝香",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.140411, 34.851842]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「ＤＩＶＥ!!」",
+            "cast": "林遣都、池松壮亮、溝端淳平、瀬戸朝香",
+            "location": "島田市相賀"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "CM「静岡銀行」",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「クロサギ」",
+            "cast": "山下智久、掘北真希、市川由衣、山崎努",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.154388, 34.831342]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「クロサギ」",
+            "cast": "山下智久、掘北真希、市川由衣、山崎努",
+            "location": "川越し遺跡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「所轄刑事4」",
+            "cast": "船越英一郎、的場浩司",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「花は散れども」",
+            "cast": "大竹しのぶ、柄本明、豊川悦司",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「花は散れども」",
+            "cast": "大竹しのぶ、柄本明、豊川悦司",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「花は散れども」",
+            "cast": "大竹しのぶ、柄本明、豊川悦司",
+            "location": "家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.095704, 35.051649]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「花は散れども」",
+            "cast": "大竹しのぶ、柄本明、豊川悦司",
+            "location": "田野口駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「まぼろしの邪馬台国」",
+            "cast": "吉永小百合、竹中直人、窪塚洋介、風間トオル、平田満、柳原可奈子",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.185207, 34.863979]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "静清工業高校卒業制作映画「続・八十七番地の夕日」",
+            "cast": "－",
+            "location": "釣耕苑"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.11057, 35.074681]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「最後の早慶戦」",
+            "cast": "渡辺大、藤田まこと、石坂浩二、柄本明、富司純子",
+            "location": "大井川鐵道　駿河徳山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.154388, 34.831342]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「最後の早慶戦」",
+            "cast": "渡辺大、藤田まこと、石坂浩二、柄本明、富司純子",
+            "location": "川越し遺跡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.171678, 34.833661]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「最後の早慶戦」",
+            "cast": "渡辺大、藤田まこと、石坂浩二、柄本明、富司純子",
+            "location": "大井神社"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "映画「最後の早慶戦」",
+            "cast": "渡辺大、藤田まこと、石坂浩二、柄本明、富司純子",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「我はゴッホになる！～愛を彫った男・棟方志功とその妻～」",
+            "cast": "劇団ひとり、香椎由宇、藤木直人、虻川美穂子、笹野高史",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成19年度",
+            "title": "ドラマ「裸の大将～宮崎の鬼が笑うので～」（仮）",
+            "cast": "塚地武雅（ドランクドラゴン）、水川あさみ、ウド鈴木、梅宮辰夫",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "ドラマ「ありがとう！チャンピィ」",
+            "cast": "高嶋政伸",
+            "location": "大井川鐵道　千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "映画「フィッシュストーリー」",
+            "cast": "森山未來、多部未華子",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179596, 34.795346]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "映画「フィッシュストーリー」",
+            "cast": "森山未來、多部未華子",
+            "location": "富士山静岡空港"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.107828, 35.070447]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "映画「フィッシュストーリー」",
+            "cast": "森山未來、多部未華子",
+            "location": "茶茗館"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "映画「20世紀少年」",
+            "cast": "ユースケサンタマリア、小池栄子",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "CM「愛昇殿」",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.095704, 35.051649]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "ドラマ「なでしこ隊物語」",
+            "cast": "成海璃子",
+            "location": "大井川鐵道　田野口駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.140661, 35.116837]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "「地元の人が教える！2泊3日の旅」 ",
+            "cast": "澤登正朗",
+            "location": "大井川鐵道　井川線　川根両国駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.134343, 35.124676]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "「地元の人が教える！2泊3日の旅」 ",
+            "cast": "澤登正朗",
+            "location": "沢間駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "「地元の人が教える！2泊3日の旅」 ",
+            "cast": "澤登正朗",
+            "location": "大井川河川敷"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "映画「丘のうえから」",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.154388, 34.831342]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "映画「丘のうえから」",
+            "cast": "－",
+            "location": "川越し遺跡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "ドラマ｢最後の戦犯」",
+            "cast": "ＡＲＡＴＡ、倍賞美津子",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "映画「ヴィヨンの妻 ～桜桃とタンポポ～」",
+            "cast": "松たか子・浅野忠信",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.095704, 35.051649]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "ドラマ「刑事一代」",
+            "cast": "渡辺謙",
+            "location": "大井川鐡道　田野口駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "ドラマ「刑事一代」",
+            "cast": "渡辺謙",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.123078, 34.95085]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "ドラマ「刑事一代」",
+            "cast": "渡辺謙",
+            "location": "不動の滝"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "バラエティー「中居正広のキンスマ！波瀾万丈スペシャル」",
+            "cast": "－",
+            "location": "大井川"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成20年度",
+            "title": "ドラマ「万引きGメン・二階堂雪18　緊急遺言」（仮題）",
+            "cast": "木の実ナナ、角野卓造、あき竹城、星由里子他",
+            "location": "大井川鐡道"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "映画「ゼロの焦点」",
+            "cast": "広末涼子",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "映画「ゼロの焦点」",
+            "cast": "広末涼子",
+            "location": "家山の茶畑"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.1874826, 34.859192]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "映画「ゼロの焦点」",
+            "cast": "広末涼子",
+            "location": "お茶の郷"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.08969, 34.959891]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ドラマ「ハンチョウ～神南署安積班～」",
+            "cast": "黒部幸英",
+            "location": "川根温泉裏河原"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ＮＨＫ「金とく　誰が上げたか？打ち上げ花火」",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "フジテレビ「エチカの鏡」",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "フジテレビ「エチカの鏡」",
+            "cast": "－",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.1874826, 34.859192]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "映画 「FLOWERS」",
+            "cast": "竹内結子・大沢たかお　他",
+            "location": "お茶の郷"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.182565, 34.805809]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "映画 「FLOWERS」",
+            "cast": "竹内結子・大沢たかお　他",
+            "location": "湯日の茶畑"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "映画 「FLOWERS」",
+            "cast": "竹内結子・大沢たかお　他",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ＮＨＫ松本清張ドラマスペシャル「顔」",
+            "cast": "谷原章介・原田夏希・高橋和也・大地康雄　他",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ＮＨＫ松本清張ドラマスペシャル「顔」",
+            "cast": "谷原章介・原田夏希・高橋和也・大地康雄　他",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.154388, 34.831342]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ＨＥＩＷＡ　ＴＶＣＭ",
+            "cast": "－",
+            "location": "川越遺跡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.171678, 34.833661]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ＨＥＩＷＡ　ＴＶＣＭ",
+            "cast": "－",
+            "location": "大井神社"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.174412, 34.832673]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ＨＥＩＷＡ　ＴＶＣＭ",
+            "cast": "－",
+            "location": "清水屋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "映画「ＢＯＸ～袴田事件～」",
+            "cast": "萩原聖人・新井浩文",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "中国テレビドラマ「杜拉拉昇進記」",
+            "cast": "萩原聖人・新井浩文",
+            "location": "大井川鐵道　千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.105761, 35.178834]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "中国テレビドラマ「杜拉拉昇進記」",
+            "cast": "萩原聖人・新井浩文",
+            "location": "寸又峡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "ＮＨＫ連続テレビ小説「ゲゲゲの女房」",
+            "cast": "松下奈緒・向井理・杉浦太陽　他",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173407, 34.830155]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "テレビ朝日特別番組「目撃者」",
+            "cast": "－",
+            "location": "JR島田駅北口"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.098785, 34.975339]
+        },
+        "properties": {
+            "year": "平成21年度",
+            "title": "テレビ朝日特別番組「目撃者」",
+            "cast": "－",
+            "location": "笹間渡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.098785, 34.975339]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "ＮＨＫ「ふるさと旅スペシャル」あなたへ～被爆６５年あの夏の約束～",
+            "cast": "－",
+            "location": "大井川鐵道　笹間渡駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.115652, 35.089485]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "ＮＨＫ「ふるさと旅スペシャル」あなたへ～被爆６５年あの夏の約束～",
+            "cast": "－",
+            "location": "青部駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.115652, 35.089485]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "テレビ朝日「スーパーモーニング」忘れ去られた”幻の部隊”",
+            "cast": "－",
+            "location": "大井川鐵道　青部駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "テレビ朝日「スーパーモーニング」忘れ去られた”幻の部隊”",
+            "cast": "－",
+            "location": "新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.123737, 34.815541]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "映画「百合子ダスヴィダーニヤ」",
+            "cast": "菜葉菜・大杉蓮",
+            "location": "旧東海道石畳"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.176994, 34.833596]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "ＮＨＫスペシャルドラマ「さよならアルマ」",
+            "cast": "勝地涼・仲里依紗・玉山鉄ニ",
+            "location": "ル・シャン"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.178003, 34.838298]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "ＴＢＳドラマ「ＪＩＮ－仁－」",
+            "cast": "大沢たかお・綾瀬はるか・中谷美紀",
+            "location": "おもちゃのぽっぽ"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.196381, 34.836852]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "ＭＡＺＤＡ　Ｗｅｂ用ＣＭ",
+            "cast": "－",
+            "location": "マックスバリュー島田店"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.081302, 34.979033]
+        },
+        "properties": {
+            "year": "平成22年度",
+            "title": "ＭＡＺＤＡ　Ｗｅｂ用ＣＭ",
+            "cast": "－",
+            "location": "大井川河川敷（葛籠）"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179224, 34.831153]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "水樹奈々　LIVE JOURNEY2011 コンサート時送出映像 ",
+            "cast": "水樹奈々",
+            "location": "萬露亭"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175479, 34.850182]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "水樹奈々　LIVE JOURNEY2011 コンサート時送出映像 ",
+            "cast": "水樹奈々",
+            "location": "ローズアリーナ"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.185634, 34.839913]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "水樹奈々　LIVE JOURNEY2011 コンサート時送出映像 ",
+            "cast": "水樹奈々",
+            "location": "島田実業"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.150346, 35.134874]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "水樹奈々　LIVE JOURNEY2011 コンサート時送出映像 ",
+            "cast": "水樹奈々",
+            "location": "もりのくに"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.124605, 34.816943]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＮＨＫ「金とく」～タイムトラベル！東海道中膝栗毛～",
+            "cast": "江戸むらさき",
+            "location": "金谷石畳"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.128036, 35.140548]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＮＨＫ「金とく」～タイムトラベル！東海道中膝栗毛～",
+            "cast": "江戸むらさき",
+            "location": "池の谷キャンプ場"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.084985, 34.997453]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＮＨＫ「金とく」～タイムトラベル！東海道中膝栗毛～",
+            "cast": "江戸むらさき",
+            "location": "久野脇"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.123078, 34.95085]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＮＨＫ「金とく」～タイムトラベル！東海道中膝栗毛～",
+            "cast": "江戸むらさき",
+            "location": "不動の滝"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.190897, 34.841638]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＮＨＫ「金とく」～タイムトラベル！東海道中膝栗毛～",
+            "cast": "江戸むらさき",
+            "location": "法信寺"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "モバゲーＴＶ-ＣＭ",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "モバゲーＴＶ-ＣＭ",
+            "cast": "－",
+            "location": "家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179224, 34.831153]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ダヴな美「静岡」篇　ダヴＴＶ-ＣＭ",
+            "cast": "－",
+            "location": "萬露亭"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.076864, 35.068533]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ダヴな美「静岡」篇　ダヴＴＶ-ＣＭ",
+            "cast": "－",
+            "location": "川根本町三ッ星天文台"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.084532, 34.982926]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "浜松市内の住宅メーカー",
+            "cast": "－",
+            "location": "抜里発電所"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.136566, 35.107678]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "千頭駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.115652, 35.089485]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "青部駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.126809, 34.834519]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "島田市役所金谷庁舎"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.154388, 34.831342]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "川越し遺跡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "大井川橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.141805, 34.881642]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "高山公会堂"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.145292, 35.141194]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＴＢＳドラマ「南極大陸」",
+            "cast": "木村拓哉",
+            "location": "小山橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.077744, 34.940029]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "テレビ朝日｢ミュージックステーション」",
+            "cast": "－",
+            "location": "大井川鐵道　家山駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.174841, 34.834789]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "テレビ朝日｢ミュージックステーション」",
+            "cast": "－",
+            "location": "ホテルクラーネ島田"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.154388, 34.831342]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "テレビ朝日｢ミュージックステーション」",
+            "cast": "－",
+            "location": "川越し遺跡"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "テレビ朝日｢ミュージックステーション」",
+            "cast": "－",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.115652, 35.089485]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "テレビ朝日｢ミュージックステーション」",
+            "cast": "－",
+            "location": "青部セミナーハウス"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "史上最大の挑戦！世界最強マジック終結スペシャル",
+            "cast": "－",
+            "location": "大井川鐵道"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.15665, 34.832189]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "史上最大の挑戦！世界最強マジック終結スペシャル",
+            "cast": "－",
+            "location": "島田市博物館分館"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173441, 34.831445]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "TBS「教科書にのせたい！」",
+            "cast": "遠藤秀樹（東京大学）、ふかわりょう",
+            "location": "島田商工会議所"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.146637, 34.839107]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "TBS「教科書にのせたい！」",
+            "cast": "遠藤秀樹（東京大学）、ふかわりょう",
+            "location": "大河原建設（株）"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.174427, 34.830889]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "TBS「教科書にのせたい！」",
+            "cast": "遠藤秀樹（東京大学）、ふかわりょう",
+            "location": "喫茶いなば"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.15665, 34.832189]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "TBS「教科書にのせたい！」",
+            "cast": "遠藤秀樹（東京大学）、ふかわりょう",
+            "location": "島田市博物館分館"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.172486, 34.832306]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "TBS「教科書にのせたい！」",
+            "cast": "遠藤秀樹（東京大学）、ふかわりょう",
+            "location": "居酒屋さくら"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "島田市シティプロモーションビデオ",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "NHK「梅ちゃん先生」",
+            "cast": "堀北真希・小出恵介",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＣＳ「ぶらり探訪・東海道」",
+            "cast": "松村邦洋、原田龍二",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.095704, 35.051649]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＣＳ「ぶらり探訪・東海道」",
+            "cast": "松村邦洋、原田龍二",
+            "location": "田野口駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.190897, 34.841638]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "ＣＳ「ぶらり探訪・東海道」",
+            "cast": "松村邦洋、原田龍二",
+            "location": "法信寺"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.141054, 35.118219]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "「荷風はこんな男じゃない」",
+            "cast": "愛川欣也",
+            "location": "川根本町両国橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "「松本清張スペシャル　市長死す」 ",
+            "cast": "反町隆",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.087687, 34.953361]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "「松本清張スペシャル　市長死す」 ",
+            "cast": "反町隆",
+            "location": "抜里"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.127429, 35.091707]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "「松本清張スペシャル　市長死す」 ",
+            "cast": "反町隆",
+            "location": "崎平"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.09005, 34.901922]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "「松本清張スペシャル　市長死す」 ",
+            "cast": "反町隆",
+            "location": "福用"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "「駅弁刑事７」",
+            "cast": "小林稔侍・田丸真紀",
+            "location": "大井川鐵道"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [0, 0]
+        },
+        "properties": {
+            "year": "平成23年度",
+            "title": "「駅弁刑事７」",
+            "cast": "小林稔侍・田丸真紀",
+            "location": "茶工場予定"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179596, 34.795346]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "映画「青木ヶ原」",
+            "cast": "勝野洋",
+            "location": "静岡空港"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173441, 34.831445]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "映画「青木ヶ原」",
+            "cast": "勝野洋",
+            "location": "島田商工会議所"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.120855, 34.84479]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "TBSドラマ「レベル7」",
+            "cast": "玉木宏、杏",
+            "location": "大井川鐵道　五和駅付近"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179596, 34.795346]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "ドラマ「ぼくの夏休み」",
+            "cast": "綾部守人、二宮星",
+            "location": "静岡空港"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "(株)物語コーポレーション「企業用ビデオ」",
+            "cast": "－",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "映画「少年Ｈ」",
+            "cast": "水谷豊、伊藤蘭",
+            "location": "島田市内"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.081695, 35.046833]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "映画「少年Ｈ」",
+            "cast": "水谷豊、伊藤蘭",
+            "location": "川根本町"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "｢杏が行く恋する東海道」",
+            "cast": "杏",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.09005, 34.901922]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "ハラダ製茶「ＴＶＣＭ」",
+            "cast": "－",
+            "location": "福用採石場"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173441, 34.831445]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "ナニコレ珍百景",
+            "cast": "－",
+            "location": "島田商工会議所"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "日中国交正常化40周年記念作品「どこへ！」",
+            "cast": "－",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.124605, 34.816943]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "日中国交正常化40周年記念作品「どこへ！」",
+            "cast": "－",
+            "location": "石畳"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "斉藤雅子グラビアイメージＤＶＤ",
+            "cast": "斉藤雅子",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.156438, 34.874455]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "斉藤雅子グラビアイメージＤＶＤ",
+            "cast": "斉藤雅子",
+            "location": "田代陸上競技場予定地"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.084106, 34.853423]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "牙狼外伝　桃幻の笛",
+            "cast": "佐藤康恵・松山メアリ・瀧内公美",
+            "location": "大代茶畑"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "牙狼外伝　桃幻の笛",
+            "cast": "佐藤康恵・松山メアリ・瀧内公美",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "松本清張スペシャル　顔",
+            "cast": "松雪泰子、田中麗奈",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.178101, 34.834079]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "市橋直歩グラビアイメージＤＶＤ",
+            "cast": "市橋直歩",
+            "location": "秋野邸"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.15999, 34.835958]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "市橋直歩グラビアイメージＤＶＤ",
+            "cast": "市橋直歩",
+            "location": "竹中電機工場"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "映画「蜃気楼」",
+            "cast": "市橋直歩",
+            "location": "大井川鐵道"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173441, 34.831445]
+        },
+        "properties": {
+            "year": "平成24年度",
+            "title": "鉄道警察官・清村公三郎１０",
+            "cast": "小林稔侍",
+            "location": "商工会議所"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "東京駅お忘れ物預り所",
+            "cast": "高嶋政宏、桜井淳子",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "ミドリ安全(株)　TVCM",
+            "cast": "－",
+            "location": "島田市内"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.172761, 34.851109]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "ＮＨＫ「零戦～搭乗員たちが見つめた太平洋戦争～(仮)」",
+            "cast": "奥田瑛二・小林ユウキチ・松本花奈",
+            "location": "サンワフィールドバラの丘　"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "ドラマ「ヤメ刑探偵加賀美塔子3」",
+            "cast": "片平なぎさ、大杉蓮",
+            "location": "大井川鐵道　新金谷駅　"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "ドラマ「ヤメ刑探偵加賀美塔子3」",
+            "cast": "片平なぎさ、大杉蓮",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "ピエール瀧のしょんないＴＶ",
+            "cast": "ピエール瀧",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.08969, 34.959891]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "ドラマ「長谷川町子ものがたり(仮)」",
+            "cast": "尾野真千子",
+            "location": "川根温泉付近"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "映画「超高速！参勤交代」",
+            "cast": "深田恭子、佐々木蔵之介",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "中居正広の金曜日のスマたちへ",
+            "cast": "深田恭子、佐々木蔵之介",
+            "location": "大井川鐵道新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.095704, 35.051649]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "中居正広の金曜日のスマたちへ",
+            "cast": "深田恭子、佐々木蔵之介",
+            "location": "田野口駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.190897, 34.841638]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "中居正広の金曜日のスマたちへ",
+            "cast": "深田恭子、佐々木蔵之介",
+            "location": "法信寺"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.141054, 35.118219]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "ドラマ「パンドラ」",
+            "cast": "堺雅人、尾野真千子",
+            "location": "川根本町両国橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "TBSスペシャルドラマ「LEADERS」",
+            "cast": "佐藤浩一",
+            "location": "大井川鐵道新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.087687, 34.953361]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "TBSスペシャルドラマ「LEADERS」",
+            "cast": "佐藤浩一",
+            "location": "抜里"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.127429, 35.091707]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "TBSスペシャルドラマ「LEADERS」",
+            "cast": "佐藤浩一",
+            "location": "崎平"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.09005, 34.901922]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "TBSスペシャルドラマ「LEADERS」",
+            "cast": "佐藤浩一",
+            "location": "福用"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "茶屋次郎⑫大井川殺人事件",
+            "cast": "橋爪功、中山エミリ",
+            "location": "大井川鐵道"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [0, 0]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "茶屋次郎⑫大井川殺人事件",
+            "cast": "橋爪功、中山エミリ",
+            "location": "茶工場予定"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [0, 0]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "NHK「ロンググッドバイ」",
+            "cast": "浅野忠信",
+            "location": "茶工場予定"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179596, 34.795346]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "映画「光と風さえあればいい」",
+            "cast": "浅野忠信",
+            "location": "静岡空港"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173441, 34.831445]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "映画「光と風さえあればいい」",
+            "cast": "浅野忠信",
+            "location": "島田商工会議所"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.120855, 34.84479]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "大塚愛ミュージックビデオ",
+            "cast": "浅野忠信",
+            "location": "大井川鐵道五和駅付近"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.179596, 34.795346]
+        },
+        "properties": {
+            "year": "平成25年度",
+            "title": "映画「近距離恋愛」",
+            "cast": "浅野忠信",
+            "location": "静岡空港"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "映画「バンクーバーの朝日」",
+            "cast": "妻夫木聡、亀梨和也",
+            "location": "大井川鐵道新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "映画「向日葵の丘」",
+            "cast": "常盤貴子",
+            "location": "島田市内"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.081695, 35.046833]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "映画「向日葵の丘」",
+            "cast": "常盤貴子",
+            "location": "川根本町"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "NHKドラマ「マッサン」",
+            "cast": "玉山鉄二",
+            "location": "大井川鐵道新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.481281, 34.984692]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "日本代表公式応援ソングPV",
+            "cast": "桜井和寿",
+            "location": "IAIスタジアム日本平"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.09005, 34.901922]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "NHKドラマ「撃墜」",
+            "cast": "桜井和寿",
+            "location": "福用採石場"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [137.726126, 34.710834]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "「佐藤信介監督最新映画」",
+            "cast": "桜井和寿",
+            "location": "浜松市"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173441, 34.831445]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "ドラマ「ヤメ刑探偵加賀美塔子3」",
+            "cast": "片平なぎさ",
+            "location": "島田商工会議所"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.323189, 34.86692]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "ドラマ「ビンタ！」",
+            "cast": "松本利夫",
+            "location": "焼津市"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.257458, 34.867367]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "K-mix「おひるま協同組合」＆テレビ静岡「てっぺん静岡」対決企画ロケ",
+            "cast": "松本利夫",
+            "location": "藤枝市"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "とびっきり！静岡 　天気コーナー　背景用映像",
+            "cast": "松本利夫",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.124605, 34.816943]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "とびっきり！静岡 　天気コーナー　背景用映像",
+            "cast": "松本利夫",
+            "location": "石畳"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "映画「満州の紅い陽」",
+            "cast": "松本利夫",
+            "location": "大井川鐵道新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.156438, 34.874455]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "映画「満州の紅い陽」",
+            "cast": "松本利夫",
+            "location": "田代陸上競技場予定地"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.084106, 34.853423]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "ドラマ「永遠のゼロ」",
+            "cast": "広末涼子、桐谷健太",
+            "location": "大代茶畑"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "ドラマ「永遠のゼロ」",
+            "cast": "広末涼子、桐谷健太",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "学習塾TVCM",
+            "cast": "広末涼子、桐谷健太",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.15999, 34.835958]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "NHK復興を支えた市民たち ",
+            "cast": "伊武雅刀",
+            "location": "竹中電機工場"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.178101, 34.834079]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "NHK復興を支えた市民たち ",
+            "cast": "伊武雅刀",
+            "location": "秋野邸"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137188, 34.82546]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "ドラマ「天皇の料理番」",
+            "cast": "佐藤健",
+            "location": "大井川鐵道"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.173441, 34.831445]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "ドラマ「天使のナイフ」",
+            "cast": "小出恵介",
+            "location": "商工会議所　外"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "映画「おかあさんの木」",
+            "cast": "鈴木京香",
+            "location": "大井川鐵道新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.175997, 34.836364]
+        },
+        "properties": {
+            "year": "平成26年度",
+            "title": "ピエール瀧のしょんないTV",
+            "cast": "ピエール瀧",
+            "location": "島田市内"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.172761, 34.851109]
+        },
+        "properties": {
+            "year": "平成27年度",
+            "title": "ピエール瀧のしょんないTV ",
+            "cast": "ピエール瀧",
+            "location": "サンワフィールドバラの丘　"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.137577, 34.825765]
+        },
+        "properties": {
+            "year": "平成27年度",
+            "title": "TBSスペシャルドラマ「レッドクロス」",
+            "cast": "松嶋奈々子",
+            "location": "大井川鐵道　新金谷駅　"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.184443, 34.825524]
+        },
+        "properties": {
+            "year": "平成27年度",
+            "title": "TBSスペシャルドラマ「レッドクロス」",
+            "cast": "松嶋奈々子",
+            "location": "蓬莱橋"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.139015, 34.824029]
+        },
+        "properties": {
+            "year": "平成27年度",
+            "title": "映画「母と暮らせば」",
+            "cast": "吉永小百合",
+            "location": "大井川鐵道　新金谷駅"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "point",
+            "coordinates": [138.08969, 34.959891]
+        },
+        "properties": {
+            "year": "平成27年度",
+            "title": "映画「AGASSI」",
+            "cast": "吉永小百合",
+            "location": "川根温泉付近"
+        }
+    }]
+}
